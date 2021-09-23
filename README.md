@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hey 👋, I'm Sara Boutej</h1>
 
-<div align="center"><img src="https://avatars.githubusercontent.com/u/40363501?v=4"/></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=SaraBoutej"/></div
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=SaraBoutej&count_private=true&show_icons=true&theme=dracula" />
